@@ -61,3 +61,4 @@ This program is a simple constructor in which the user types in a postfix arithm
   <li>Press "Construct Infix"</li>
 </ol>
 <p>The results include the infix expression</p>
+<p>The program also produces a text file (<code>3AddressFile.txt</code>) that simulates the registers in a computer used to calculate the expression</p>
